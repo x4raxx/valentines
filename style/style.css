@@ -58,7 +58,7 @@ body {
 }
 
 .four .text-box {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   border: 3px solid #aaa;
   border-radius: 5px;
@@ -221,6 +221,7 @@ body {
   font-weight: lighter;
   font-size: 2rem;
   margin: 10px 0 0;
+  border-radius: 5px;
 }
 
 .nine p {
@@ -231,6 +232,10 @@ body {
 #replay {
   z-index: 3;
   cursor: pointer;
+}
+.girl-dp {
+    transform: scale(1);
+    transition: transform 2s ease-in-out 1s; /* 2s transition with 10s delay */
 }
 
 /* Media Queries */
