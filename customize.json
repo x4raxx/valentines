@@ -1,7 +1,6 @@
 {
   "name": "Pretty",
-  "greetingText": "هل لديك يوم حزين جميل؟ لا تكن أنت شخصًا خاصًا بشخص ما في العالم كله!",
-  "wishText": "sheesh-mahal na mujh ko suhaaye
-              Tujh sang sookhi roti bhaaye",
-  "imagePath": "img/1.jpeg"
+  "greetingText": "اگر آپ آج اداس ہیں، تو یہ ہے آپ کی خاص چیز جو آپ کے لیے بنائی گئی ہے۔!",
+  "wishText": "Aankhon me teri Ajab si Ajab si aadae hai, Dil ko bna de malang ye teri wo hawayeinn hai",
+  "imagePath": "img/vector.jpg"
 }
