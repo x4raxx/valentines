@@ -5,7 +5,7 @@
 [![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/J-12w/ValentineWish.git)
 
 
-#### [See it Live](https://github.com/J-12w/ValentineWish.git)
+#### [See it Live](https://github.com/J-12w/My-Valentine.git)
 
 ## Make your own version :computer:
 
